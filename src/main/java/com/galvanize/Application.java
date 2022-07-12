@@ -12,6 +12,19 @@ public class Application {
             System.out.println(args[0] + " <" +  args[1] + ">");
         }
 
+//        int x = Integer.parseInt(args[0]);
+//        String res = "";
+//
+//        if (x % 3== 0  && x % 5 ==0) {
+//            res = "FizzBuzz";
+//        } else if (x % 3 == 0) {
+//            res = "Fizz";
+//        } else if (x % 5 == 0) {
+//            res = "Buzz";
+//        } else {
+//            res = args[0];
+//        }
+//        System.out.println(res);
     }
 
 }
